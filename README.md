@@ -44,8 +44,7 @@
 ## 🌐 Connect With Me
 
 <p align="center">
-
-<a href="www.linkedin.com/in/tejashri-kamble9bab2234b">
+<a href="https://linkedin.com/in/ www.linkedin.com/in/tejashri-kamble9bab2234b">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
